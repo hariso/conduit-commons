@@ -1,5 +1,5 @@
 version: v1
-name: buf.build/conduitio/conduit-commons
+name: buf.build/haris/conduit-commons
 lint:
   use:
     - DEFAULT
